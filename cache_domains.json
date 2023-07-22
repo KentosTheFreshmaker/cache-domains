@@ -6,11 +6,6 @@
 			"domain_files": ["arenanet.txt"]
 		},
 		{
-			"name": "blizzard",
-			"description": "CDN for blizzard/battle.net",
-			"domain_files": ["blizzard.txt"]
-		},
-		{
 			"name": "bsg",
 			"description": "CDN for Battle State Games, Tarkov",
 			"domain_files": ["bsg.txt"]
@@ -111,11 +106,6 @@
 			"name": "wargaming",
 			"description": "CDN for wargaming.net",
 			"domain_files": ["wargaming.net.txt"]
-		},
-		{
-			"name": "wsus",
-			"description": "CDN for windows updates",
-			"domain_files": ["windowsupdates.txt"]
 		},
 		{
 			"name": "xboxlive",
